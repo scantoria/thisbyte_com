@@ -3,7 +3,7 @@ import * as nodemailer from 'nodemailer';
 
 // Email configuration for contact form
 const EMAIL_USER = 'support@thisbyte.com';
-const EMAIL_PASS = 'w!l)Land27&e';
+const EMAIL_PASS = 'zrlb isrd bvpn elbr';
 const RECIPIENT_EMAIL = 'support@thisbyte.com';
 
 const transporter = nodemailer.createTransport({
